@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeConjuror and gitHub makes me feel ✨ special ✨
+- 👋 Hi, I’m @CodeConjuror and gitHub makes me feel ✨ creative ✨
 - 👀 I’m interested in ... video games, music, sewing and coding
 - 🌱 I’m currently learning ... html, css, java script and c++
 - 💞️ I’m looking to collaborate on ... anything I can get my hands on
